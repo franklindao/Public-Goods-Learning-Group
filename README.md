@@ -15,7 +15,7 @@ Table of Contents
   - [Reading 2 Name - Uniswap Intro](https://medium.com/scalar-capital/uniswap-a-unique-exchange-f4ef44f807bf)
   - [Reading 3 Name - Impermanent Loss Intro](https://pintail.medium.com/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2#c7a9)
 ### Week 2
-  - [Reading 1 Crystal Street's Substack](((https://humantech.substack.com/)))
+  - [Reading 1 Crystal Street's Substack](https://humantech.substack.com/)
 ### Week 3
   - [Reading 1 Name]([link](https://learnmeabitcoin.com/))
 ### Week 4
