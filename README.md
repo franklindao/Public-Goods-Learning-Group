@@ -16,6 +16,7 @@ Table of Contents
   - [Reading 3 Name - Impermanent Loss Intro](https://pintail.medium.com/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2#c7a9)
 ### Week 2
   - [Crystal Street's Substack](https://humantech.substack.com/)
+  - [Making it easier to maintain open-source projects with CodiumAI and Pinecone](https://www.pinecone.io/learn/codiumai-pinecone-similar-issues/)
 ### Week 3
   - [Reading 1 Name]([link](https://learnmeabitcoin.com/))
 ### Week 4
