@@ -17,6 +17,7 @@ Table of Contents
 ### Week 2
   - [Crystal Street's Substack](https://humantech.substack.com/)
   - [Making it easier to maintain open-source projects with CodiumAI and Pinecone](https://www.pinecone.io/learn/codiumai-pinecone-similar-issues/)
+  - [Now is the Time for Grimoires] (https://www.oneusefulthing.org/p/now-is-the-time-for-grimoires?subscribe_prompt=free)
 ### Week 3
   - [Reading 1 Name]([link](https://learnmeabitcoin.com/))
 ### Week 4
